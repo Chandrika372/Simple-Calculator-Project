@@ -1,0 +1,3 @@
+# Simple-Calculator-Project
+This is a simple calculator designed using HTML and CSS and functionality acheived using JavaScript.
+<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-pKCMPcUkozs/YBqN6E8mRXI/AAAAAAAAAgU/OsMgwMFyyrk3Zqrf8qzfg8c7Qm0RC8gwwCLcBGAsYHQ/s1038/calculatordemopic1.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="200" data-original-height="611" data-original-width="1038" src="https://1.bp.blogspot.com/-pKCMPcUkozs/YBqN6E8mRXI/AAAAAAAAAgU/OsMgwMFyyrk3Zqrf8qzfg8c7Qm0RC8gwwCLcBGAsYHQ/s200/calculatordemopic1.png"/></a></div>
